@@ -1,16 +1,66 @@
-## Hi there 👋
+# 🚀 Wambua Christopher Ngumbi
+[![Email](https://img.shields.io/badge/Email-Wambuangumbi@gmail.com-red?style=flat-square&logo=gmail)](mailto:Wambuangumbi@gmail.com)  
+[![Phone](https://img.shields.io/badge/Phone-+254712719781-green?style=flat-square&logo=whatsapp)](tel:+254712719781)
 
-<!--
-**cngumbi/cngumbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 About Me
+I am a passionate Software Engineer with a strong foundation in ICT, data analytics, and systems development. I enjoy building efficient, scalable, and user-focused solutions that solve real-world problems.
 
-Here are some ideas to get you started:
+Driven by curiosity and continuous learning, I am always exploring new technologies and identifying innovative approaches to solving complex business and technical challenges. I believe that introducing fresh perspectives and modern techniques enables systems and organizations to evolve and grow.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My background as an ICT professional has equipped me with hands-on experience in system management, operational support, and data handling. I have developed strong problem-solving skills, attention to detail, and the ability to maintain reliable and efficient systems.
+
+I am a collaborative team player who values knowledge sharing and continuous improvement. I actively seek opportunities to contribute meaningful insights and drive positive outcomes through technology.
+
+Additionally, my entrepreneurial experience has strengthened my strategic thinking, initiative, and adaptability. It has enabled me to approach challenges with a solution-oriented mindset and a focus on long-term impact.
+
+I am committed to staying at the forefront of technological advancements and contributing to innovative teams where I can grow and make a meaningful difference.
+
+---
+
+## 🛠️ Tech Stack
+- **Languages:** JavaScript, Python, C, SQL  
+- **Web Technologies:** HTML, CSS  
+- **Tools & Platforms:** Git, GitHub, Linux 
+- **Other Skills:** Networking, Systems Administration, Data Analysis, computer engineering  
+
+---
+
+## 📌 Featured Projects
+Explore my work and projects on GitHub:
+
+🔗 [My GitHub Profile](https://github.com/cngumbi)
+
+---
+
+## 📊 GitHub Stats
+![Christopher's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cngumbi&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cngumbi&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Contact Me
+- 📧 Email: Wambuangumbi@gmail.com  
+- 📞 Phone: +254 712 719 781  
+- 🌍 Location: Nairobi, Kenya  
+
+---
+
+## 🎯 Career Objective
+To leverage my technical expertise and passion for software engineering to build innovative, scalable solutions, contribute to impactful projects, and continuously grow within the technology industry.
+
+---
+
+## 💡 What I Bring
+- Strong analytical and problem-solving skills  
+- Adaptability and continuous learning mindset  
+- Experience in ICT systems and technical operations  
+- Entrepreneurial thinking and initiative  
+- Effective communication and teamwork  
+
+---
+
+## ⚡ Let's Build Something Great
+I am open to collaboration, freelance opportunities, and full-time roles in software development and IT.
+
+Feel free to connect or reach out!
