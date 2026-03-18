@@ -43,6 +43,8 @@ R projects demonstrating data cleaning, visualization, and statistical analysis.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cngumbi&layout=compact&theme=tokyonight)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=cngumbi&theme=tokyonight)
+
 ---
 
 ## 📫 Contact Me
