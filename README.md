@@ -27,6 +27,12 @@ I am committed to staying at the forefront of technological advancements and con
 
 ## 📌 Featured Projects
 Explore my work and projects on GitHub:
+ 
+### 1. [Euler](https://github.com/cngumbi/Euler)  
+C programming projects with algorithmic challenges and problem-solving exercises.  
+  
+### 2. [Statistical_Analysis](https://github.com/cngumbi/Statistical_Analysis)  
+R projects demonstrating data cleaning, visualization, and statistical analysis.  
 
 🔗 [My GitHub Profile](https://github.com/cngumbi)
 
