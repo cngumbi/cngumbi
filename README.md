@@ -50,7 +50,7 @@ R projects demonstrating data cleaning, visualization, and statistical analysis.
 ## 📫 Contact Me
 - 📧 Email: Wambuangumbi@gmail.com  
 - 📞 Phone: +254 712 719 781  
-- 🌍 Location: Nairobi, Kenya  
+- 🌍 Location: Nyayo Estate, Embakasi, Nairobi, Kenya  
 
 ---
 
