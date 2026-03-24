@@ -50,7 +50,7 @@ R projects demonstrating data cleaning, visualization, and statistical analysis.
 ## 📫 Contact Me
 - 📧 Email: Wambuangumbi@gmail.com  
 - 📞 Phone: +254 712 719 781  
-- 🌍 Location: Utuneni, Tulimani, Mbooni East, Makueni  
+- 🌍 Location: Utuneni, Ngiluni, Tulimani, Mbooni West, Makueni  
 
 ---
 
