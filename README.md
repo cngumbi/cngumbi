@@ -21,7 +21,7 @@ I am committed to staying at the forefront of technological advancements and con
 - **Languages:** JavaScript, Python, C, Assemby, SQL
 - **Web Technologies:** HTML, CSS  
 - **Tools & Platforms:** Git, GitHub, Linux 
-- **Other Skills:** Networking, Systems Administration, Data Analysis, Computer Engineering  
+- **Other Skills:** Networking, Systems Administration, Systems Analysis, Data Analysis, Computer Engineering  
 
 ---
 
