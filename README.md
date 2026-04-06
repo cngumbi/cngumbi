@@ -42,6 +42,8 @@ R projects demonstrating data cleaning, visualization, and statistical analysis.
 
 ![GitHub Stats](./profile/stats.svg)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cngumbi&show_icons=true&theme=tokyonight)
+
 
 ---
 
