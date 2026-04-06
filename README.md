@@ -42,9 +42,9 @@ R projects demonstrating data cleaning, visualization, and statistical analysis.
 
 ![GitHub Stats](./profile/stats.svg)
 
-![Top Languages](./profile/top-langs.svg)
-
 ![GitHub Streak](./profile/streak.svg)
+
+![Top Languages](./profile/top-langs.svg)
 
 
 ---
