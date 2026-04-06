@@ -29,6 +29,11 @@ jobs:
           options: username=${{ github.repository_owner }}&layout=compact&theme=tokyonight
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate Streak Stats
+        run: |
+          curl "https://streak-stats.demolab.com?user=${{ github.repository_owner }}&theme=tokyonight" \
+          -o profile/streak.svg
       
 
       - name: Commit and push
