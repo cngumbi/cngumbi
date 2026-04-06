@@ -43,10 +43,6 @@ R projects demonstrating data cleaning, visualization, and statistical analysis.
 ![GitHub Stats](./profile/stats.svg)
 
 
-
-
-![GitHub Streak](https://streak-stats.demolab.com?user=cngumbi&theme=tokyonight&hide_border=true&cache_seconds=1800)
-
 ---
 
 ## 📫 Contact Me
