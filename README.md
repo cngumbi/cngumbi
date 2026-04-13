@@ -1,6 +1,8 @@
 # 🚀 Wambua Christopher Ngumbi
 [![Email](https://img.shields.io/badge/Email-Wambuangumbi@gmail.com-red?style=flat-square&logo=gmail)](mailto:Wambuangumbi@gmail.com)  
 [![Phone](https://img.shields.io/badge/Phone-+254712719781-green?style=flat-square&logo=whatsapp)](tel:+254712719781)
+[![Phone](https://img.shields.io/badge/Phone-+254798401034-green?style=flat-square&logo=whatsapp)](tel:+254798401034)
+[![Phone](https://img.shields.io/badge/Phone-+254756478936-green?style=flat-square&logo=whatsapp)](tel:+254756478936)
 
 ## 👋 About Me
 I am a passionate Software Engineer with a strong foundation in ICT, data analytics, and systems development. I enjoy building efficient, scalable, and user-focused solutions that solve real-world problems.
