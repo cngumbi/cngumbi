@@ -1,14 +1,7 @@
 # 🚀 Wambua Christopher Ngumbi
 [![Email](https://img.shields.io/badge/Email-Wambuangumbi@gmail.com-red?style=flat-square&logo=gmail)](mailto:Wambuangumbi@gmail.com)  
-[![Phone](https://img.shields.io/badge/Phone-+254712719781-green?style=flat-square&logo=whatsapp)](tel:+254712719781)
-[![Phone](https://img.shields.io/badge/Phone-+254798401034-green?style=flat-square&logo=whatsapp)](tel:+254798401034)
-[![Phone](https://img.shields.io/badge/Phone-+254756478936-green?style=flat-square&logo=whatsapp)](tel:+254756478936)
-
-### 📞 Contact
-
 [![Call](https://img.shields.io/badge/Call-%2B254%20798%20401%20034-007BFF?style=flat-square&logo=phone&logoColor=white)](tel:+254798401034)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B254%20798%20401%20034-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/254798401034)
-
 [![Office](https://img.shields.io/badge/Office-%2B254%20756%20478%20936-6c757d?style=flat-square&logo=googlevoice&logoColor=white)](tel:+254756478936)
 
 ## 👋 About Me
