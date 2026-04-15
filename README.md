@@ -4,6 +4,13 @@
 [![Phone](https://img.shields.io/badge/Phone-+254798401034-green?style=flat-square&logo=whatsapp)](tel:+254798401034)
 [![Phone](https://img.shields.io/badge/Phone-+254756478936-green?style=flat-square&logo=whatsapp)](tel:+254756478936)
 
+### 📞 Contact
+
+[![Call](https://img.shields.io/badge/Call-%2B254%20798%20401%20034-007BFF?style=flat-square&logo=phone&logoColor=white)](tel:+254798401034)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B254%20798%20401%20034-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/254798401034)
+
+[![Office](https://img.shields.io/badge/Office-%2B254%20756%20478%20936-6c757d?style=flat-square&logo=googlevoice&logoColor=white)](tel:+254756478936)
+
 ## 👋 About Me
 I am a passionate Software Engineer with a strong foundation in ICT, data analytics, and systems development. I enjoy building efficient, scalable, and user-focused solutions that solve real-world problems.
 
