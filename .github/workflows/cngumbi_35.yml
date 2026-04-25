@@ -2,8 +2,8 @@ name: Update GitHub Stats
 
 on:
   schedule:
-    #run at 00:00 UTC every day
-    - cron: "0 0 * * *"
+    #run at 21:00 UTC every day which is 00:00 EAT Kenya Time(UTC+3)
+    - cron: "0 21 * * *"
   #Allows manual trigger
   workflow_dispatch:
 
