@@ -20,7 +20,7 @@ I am committed to staying at the forefront of technological advancements and con
 ---
 
 ## 🛠️ Tech Stack
-- **Languages:** JavaScript, TypeScript, YAML, Python, C, Assemby, SQL
+- **Languages:** JavaScript, TypeScript, YAML, Python, C, Assemby, SQL, NOSQL
 - **Web Technologies:** HTML, CSS, SASS  
 - **Tools & Platforms:** Git, GitHub, Linux, Docker
 - **Other Skills:** Networking, Systems Administration, Systems Analysis, Data Analysis, Computer Engineering 
