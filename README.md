@@ -20,7 +20,7 @@ My entrepreneurial experience has strengthened my strategic thinking, initiative
 ## 🛠️ Tech Stack
 - **Languages:** JavaScript, TypeScript, YAML, Python, C, Assemby
 - **Web Technologies:** HTML, CSS, SASS  
-- **Tools & Platforms:** Git, GitHub, Linux, Docker
+- **Tools & Platforms:** Git, GitHub, Linux, Docker, kubernetes
 - **Other Skills:** Networking, Systems Administration, Systems Analysis, Data Analysis, Computer Engineering, Database Management 
 
 ---
