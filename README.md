@@ -5,17 +5,15 @@
 [![Office](https://img.shields.io/badge/Office-%2B254%20756%20478%20936-6c757d?style=flat-square&logo=googlevoice&logoColor=white)](tel:+254756478936)
 
 ## 👋 About Me
-I am a passionate Software Engineer with a strong foundation in ICT, data analytics, and systems development. I enjoy building efficient, scalable, and user-focused solutions that solve real-world problems.
+I am a Software Engineer with a solid background in ICT, data analytics, and systems development. My work centers on building efficient, scalable, and user-centered solutions to real-life problems.
 
-Driven by curiosity and continuous learning, I am always exploring new technologies and identifying innovative approaches to solving complex business and technical challenges. I believe that introducing fresh perspectives and modern techniques enables systems and organizations to evolve and grow.
+I am always curious and committed to learning, so I explore new technologies and look for creative ways to solve business and technical problems. I believe that using fresh ideas and modern methods helps systems and organizations move forward.
 
-My background as an ICT professional has equipped me with hands-on experience in system management, operational support, and data handling. I have developed strong problem-solving skills, attention to detail, and the ability to maintain reliable and efficient systems.
+As an ICT professional, I have worked in system management, operational support, and data administration. I am good at solving problems, pay close attention to detail, and have a track record of keeping systems reliable and efficient.
 
-I am a collaborative team player who values knowledge sharing and continuous improvement. I actively seek opportunities to contribute meaningful insights and drive positive outcomes through technology.
+I enjoy working with others and value discussing ideas and improving together. I look for chances to share ideas and help achieve good results with technology.
 
-Additionally, my entrepreneurial experience has strengthened my strategic thinking, initiative, and adaptability. It has enabled me to approach challenges with a solution-oriented mindset and a focus on long-term impact.
-
-I am committed to staying at the forefront of technological advancements and contributing to innovative teams where I can grow and make a meaningful difference.
+My entrepreneurial experience has strengthened my strategic thinking, initiative, and adaptability. It helps me meet challenges using a problem solving mindset and concentrate on long term results. I am devoted to staying up to date with new technology and joining teams where I can learn and make a real difference.
 
 ---
 
