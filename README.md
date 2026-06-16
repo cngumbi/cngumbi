@@ -58,7 +58,7 @@ R projects demonstrating data cleaning, visualization, and statistical analysis.
 ---
 
 ## 🎯 Career Objective
-To leverage my technical expertise and passion for software engineering to build innovative, scalable solutions, contribute to impactful projects, and continuously grow within the technology industry.
+To employ my technical skills and enthusiasm for software engineering to build innovative, modular solutions, contribute to valuable projects, and continuously grow within the technology industry.
 
 ---
 
