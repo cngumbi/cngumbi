@@ -4,7 +4,6 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B254%20798%20401%20034-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/254798401034)
 [![Office](https://img.shields.io/badge/Office-%2B254%20756%20478%20936-6c757d?style=flat-square&logo=googlevoice&logoColor=white)](tel:+254756478936)
 
-
 ## 👋 About Me
 I am a Software Engineer with a solid background in ICT, data analytics, and systems development. My work centers on building efficient, scalable, and user-centered solutions to real-life problems.
 
