@@ -15,7 +15,6 @@ I enjoy working with others and value discussing ideas and improving together. I
 
 My entrepreneurial experience has strengthened my strategic thinking, initiative, and adaptability. It helps me meet challenges using a problem solving mindset and concentrate on long term results. I am devoted to staying up to date with new technology and joining teams where I can learn and make a real difference.
 
-
 ---
 
 ## 🛠️ Tech Stack
