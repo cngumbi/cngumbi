@@ -46,7 +46,7 @@ jobs:
         env:
           GH_USERNAME: ${{ github.repository_owner }}
         run: |
-          curl -fLsS --retry 3 \ 
+          curl -fLsS --retry 3 \
           "https://streak-stats.demolab.com?user=${{ github.repository_owner }}&theme=tokyonight" \
           -o profile/streak.svg
 
