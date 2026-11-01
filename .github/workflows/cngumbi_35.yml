@@ -7,6 +7,10 @@ on:
   #Allows manual trigger
   workflow_dispatch:
 
+#allow GitHub Actions to update repository files
+permissions: 
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -14,7 +18,8 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          token: ${{ secrets.C_MAINTOKEN }}
+          token: ${{ github.token }}
+          persist-credentials: true
 
       - name: Generate stats card
         uses: readme-tools/github-readme-stats-action@v1
